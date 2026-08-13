@@ -8,6 +8,7 @@ I mainly use KiCAD and Fusion for my projects.
 - Fuzz Pedal
 - Music Player Thing (Like Spotifys Car thing but for all media)
 - Physical Tablet Like To-Do list synced with apple reminders  
+
 **Fun Facts:**
 - I have two cats
 - I don't like coffee or tea
