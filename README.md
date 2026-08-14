@@ -11,7 +11,8 @@ I mainly use KiCAD and Fusion for my projects.
 - Portable read, write and emulate RFID and NFC device
 - Fuzz Pedal
 - Music Player Thing (Like Spotifys Car thing but for all media)
-- Physical Tablet Like To-Do list synced with apple reminders  
+- Physical Tablet Like To-Do list synced with apple reminders
+- Long Range Private Encrypted radio/walkie talkie  
 
 **Fun Facts:**
 - I have two cats
