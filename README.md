@@ -12,6 +12,7 @@ I mainly use KiCAD and Fusion for my projects.
 - Fuzz Pedal
 - Music Player Thing (Like Spotifys Car thing but for all media)
 - Physical Tablet Like To-Do list synced with apple reminders
+- Portable Handheld Radio
 - Long Range Private Encrypted radio/walkie talkie  
 
 **Fun Facts:**
