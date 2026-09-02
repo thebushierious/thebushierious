@@ -13,7 +13,7 @@ I mainly use KiCAD and Fusion for my projects.
 - Music Player Thing (Like Spotifys Car thing but for all media)
 - Physical Tablet Like To-Do list synced with apple reminders
 - Portable Handheld Radio
-- Long Range Private Encrypted radio/walkie talkie  
+- Fully analog smart outlet that lets current through if the room brightness is below a certain level
 
 **Fun Facts:**
 - I have two cats
