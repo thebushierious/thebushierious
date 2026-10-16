@@ -9,7 +9,12 @@ I mainly use KiCAD and Fusion for my projects.
 
 **Current Projects:**
 - Portable read, write and emulate RFID and NFC device
+- Curve Plotter
+
+**Future Projects:**
 - Fuzz Pedal
+- Flanger and Overdrive replica Pedals
+- Analog Synth
 - Music Player Thing (Like Spotifys Car thing but for all media)
 - Physical Tablet Like To-Do list synced with apple reminders
 - Portable Handheld Radio
