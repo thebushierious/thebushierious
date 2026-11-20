@@ -12,6 +12,7 @@ I mainly use KiCAD and Fusion for my projects.
 - Curve Plotter
 
 **Future Projects:**
+- Battery Tester
 - Fuzz Pedal
 - Flanger and Overdrive replica Pedals
 - Analog Synth
