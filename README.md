@@ -13,6 +13,7 @@ I mainly use KiCAD and Fusion for my projects.
 
 **Future Projects:**
 - Battery Tester
+- Nintendo 3DS build in capture card or display output and a separate capture card
 - Fuzz Pedal
 - Flanger and Overdrive replica Pedals
 - Analog Synth
